@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<screenpart BackgroundColor="Transparent" HorizonScrollbar="Hidden" Margin="0px" Padding="0px" Serializer="DBFX.Serializer.FormPartSerializer">
+
+  <xns>
+    <ns k="wc"  n="DBFX.Web.Controls" />
+    <ns k="lc"  n="DBFX.Web.LayoutControls" />
+    <ns k="dv"  n="DBFX.Design" />
+  </xns>
+
+  <controls>
+
+    <c T="wc:Panel"  Shadow="none" BorderWidth="0px" Margin="2px 0px 2px 0px" MinWidth="230px" >
+    <controls>
+
+    <c T="wc:BreakLine" BackgroundColor="lightgray"  BorderWidth="0px"    Height="1px" Margin="2px" />
+    <c T="wc:BreakLine" />
+    <c T="wc:Label" Text="输入框类型:" Margin="4px 2px 2px 16px" Float="left"/>
+    <c T="wc:ComboBox"  Display="block"  Margin="2px 14px 2px 16px" Height="26px"  DataBindings="{&quot;Path&quot;:&quot;DataType&quot;,&quot;Mode&quot;:&quot;OneWay&quot;,&quot;Source&quot;:&quot;&quot;}" >
+     <Items>
+          <Item Text="电话号" Value="phoneNum"  ImageUrl="" />
+          <Item Text="身份证号码" Value="IDNum"  ImageUrl="" />
+          <Item Text="数字" Value="numbers"  ImageUrl="" />
+          <Item Text="字母导航" Value="naviBar"  ImageUrl="" />
+     </Items>
+    </c>
+
+    <c T="wc:BreakLine" />
+    <c T="wc:Label" Text="提示文字:" Margin="4px 2px 2px 16px" Float="left"/>
+    <c T="wc:TextBox" Display="block" Height="26px" Margin="2px 14px 2px 16px" DataBindings="{&quot;Path&quot;:&quot;PlaceHolderText&quot;,&quot;Mode&quot;:&quot;OneWay&quot;,&quot;Source&quot;:&quot;&quot;}" />
+
+    <c T="wc:BreakLine" />
+    <c T="wc:Label" Text="激活时输入边框的颜色:" Margin="4px 2px 2px 16px" Float="left"/>
+    <c T="wc:ColorPicker" Display="block" Height="26px" Margin="2px 14px 2px 16px" DataBindings="{&quot;Path&quot;:&quot;ActivateBorderColor&quot;,&quot;Mode&quot;:&quot;OneWay&quot;,&quot;Source&quot;:&quot;&quot;}" />
+
+      </controls>
+    </c>
+  </controls>
+</screenpart>

@@ -1,0 +1,16 @@
+
+.textcursorAnimation {
+    animation: blink 1s infinite steps(1, start)
+}
+
+@keyframes blink {
+    0% {
+        background-color: transparent;
+    }
+    50% {
+        background-color: #666666;
+    }
+    100% {
+        background-color: transparent;
+    }
+}

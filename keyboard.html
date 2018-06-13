@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>keyboard</title>
+    <script src="https://lc.dbazure.cn/dbfx/dbfx.js"></script>
+    <!--<script src="https://lc.dbazure.cn/dbfx/dbfx.data.js"></script>-->
+    <script src="https://lc.dbazure.cn/dbfx/dbfx.commodel.js"></script>
+    <script src="https://lc.dbazure.cn/dbfxui/dbfx.web.controls.js"></script>
+    <script src="https://lc.dbazure.cn/dbfx/dbfx.commodel.js"></script>
+
+    <!--<script src="https://lc.dbazure.cn/dbfxui/dbfx.web.controls.js"></script>-->
+    <!--<script src="https://lc.dbazure.cn/dbfxui/dbfx.web.theme.js"></script>-->
+    <script src="https://lc.dbazure.cn/dbfx/dbfx.app.js"></script>
+
+    <script src="dbfx.web.customizeInputBox.js"></script>
+    <link rel="stylesheet" href="customizeInputBox.css">
+    <style>
+        .test {
+            text-indent: 0px;
+        }
+    </style>
+
+</head>
+<body>
+<div class="test">
+    <!--属性规定文本块中首行文本的缩进。-->
+</div>
+
+<div id="div" >
+    <!--<input type="text" value="dsdsdsd">-->
+</div>
+
+<script>
+
+    try{
+        var input = DBFX.Web.Controls.CustomizeInputBox();
+        document.getElementById('div').appendChild(input.VisualElement);
+
+
+        var input01 = DBFX.Web.Controls.CustomizeInputBox();
+        document.getElementById('div').appendChild(input01.VisualElement);
+
+        // var keyBoard = DBFX.Web.Controls.SoftKeyboard();
+        // keyBoard.show();
+        // document.getElementById('div').appendChild(keyBoard.VisualElement);
+
+        // var key = DBFX.Web.Controls.SoftKey();
+        // key.Character = "输入";
+        // key.KeyImageUrl = "123.png";
+        // key.CharacterColor = "red";
+        // key.CharacterSize = 20;
+        //
+
+        //
+        // // document.body.appendChild(key.VisualElement);
+        // document.getElementById('div').appendChild(key.VisualElement);
+
+    }catch (error){
+        console.log('错误:');
+        console.log(error);
+    }
+
+
+
+</script>
+</body>
+</html>
