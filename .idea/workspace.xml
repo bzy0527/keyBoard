@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="230b44c1-5325-42ca-ac76-19581097158e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/11112222.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/keyboard.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/keyboard.html" afterPath="$PROJECT_DIR$/keyboard.html" />
+      <change beforePath="$PROJECT_DIR$/testK.html" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,7 +19,66 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="dbfx.web.customizeInputBox.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dbfx.web.customizeInputBox.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2295">
+              <caret line="438" column="10" lean-forward="false" selection-start-line="438" selection-start-column="10" selection-end-line="438" selection-end-column="10" />
+              <folding>
+                <element signature="e#2214#6617#0" expanded="false" />
+                <element signature="e#6730#9220#0" expanded="false" />
+                <element signature="e#9275#9427#0" expanded="false" />
+                <element signature="e#9457#11234#0" expanded="false" />
+                <element signature="e#11327#11896#0" expanded="false" />
+                <element signature="e#11966#12457#0" expanded="false" />
+                <element signature="e#12820#12981#0" expanded="false" />
+                <element signature="e#13205#13383#0" expanded="false" />
+                <element signature="e#13460#13627#0" expanded="false" />
+                <element signature="e#13704#13963#0" expanded="false" />
+                <element signature="e#14052#14227#0" expanded="false" />
+                <element signature="e#14310#14483#0" expanded="false" />
+                <element signature="e#14578#14757#0" expanded="false" />
+                <element signature="e#14846#15023#0" expanded="false" />
+                <element signature="e#15110#15421#0" expanded="false" />
+                <element signature="e#15505#15692#0" expanded="false" />
+                <element signature="e#15771#16083#0" expanded="false" />
+                <element signature="e#16469#16635#0" expanded="false" />
+                <element signature="e#16693#17709#0" expanded="false" />
+                <element signature="e#17753#19720#0" expanded="false" />
+                <element signature="e#20363#22047#0" expanded="false" />
+                <element signature="e#22170#22936#0" expanded="false" />
+                <element signature="e#23041#25644#0" expanded="false" />
+                <element signature="e#25728#34855#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keyboard.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/keyboard.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11112222.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/11112222.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="801">
+              <caret line="354" column="45" lean-forward="false" selection-start-line="354" selection-start-column="45" selection-end-line="354" selection-end-column="45" />
+              <folding>
+                <element signature="e#140#5346#0" expanded="false" />
+                <element signature="e#5373#10579#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,6 +112,7 @@
       <find>zin</find>
       <find>window.get</find>
       <find>unshow</find>
+      <find>w/8</find>
     </findStrings>
     <replaceStrings>
       <replace>k.</replace>
@@ -59,6 +123,7 @@
       <replace>w/4</replace>
       <replace>CustomizeInputBox</replace>
       <replace>hidden</replace>
+      <replace>20</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -74,8 +139,9 @@
         <option value="$PROJECT_DIR$/dbfx.web.dbkeyboard.js" />
         <option value="$PROJECT_DIR$/InputObject.css" />
         <option value="$PROJECT_DIR$/testK.html" />
-        <option value="$PROJECT_DIR$/keyboard.html" />
         <option value="$PROJECT_DIR$/dbfx.web.customizeInputBox.js" />
+        <option value="$PROJECT_DIR$/keyboard.html" />
+        <option value="$PROJECT_DIR$/11112222.html" />
       </list>
     </option>
   </component>
@@ -92,10 +158,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="521" />
-    <option name="y" value="25" />
+    <option name="x" value="481" />
+    <option name="y" value="44" />
     <option name="width" value="1235" />
-    <option name="height" value="978" />
+    <option name="height" value="957" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -129,6 +195,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -141,7 +208,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,25 +258,29 @@
       <workItem from="1528163350007" duration="18599000" />
       <workItem from="1528858278988" duration="313000" />
       <workItem from="1530521053496" duration="221000" />
+      <workItem from="1532413534941" duration="1385000" />
+      <workItem from="1533020180250" duration="3418000" />
+      <workItem from="1534120880957" duration="462000" />
+      <workItem from="1536130730148" duration="423000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="207973000" />
+    <option name="totallyTimeSpent" value="213661000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="521" y="25" width="1235" height="978" extended-state="0" />
+    <frame x="481" y="44" width="1235" height="957" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27044535" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27044535" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -249,6 +319,151 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dbfx.web.customizeInputBox.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="438" column="10" lean-forward="false" selection-start-line="438" selection-start-column="10" selection-end-line="438" selection-end-column="10" />
+          <folding>
+            <element signature="e#2214#6617#0" expanded="false" />
+            <element signature="e#6730#9220#0" expanded="false" />
+            <element signature="e#9275#9427#0" expanded="false" />
+            <element signature="e#9457#11234#0" expanded="false" />
+            <element signature="e#11327#11896#0" expanded="false" />
+            <element signature="e#11966#12457#0" expanded="false" />
+            <element signature="e#12820#12981#0" expanded="false" />
+            <element signature="e#13205#13383#0" expanded="false" />
+            <element signature="e#13460#13627#0" expanded="false" />
+            <element signature="e#13704#13963#0" expanded="false" />
+            <element signature="e#14052#14227#0" expanded="false" />
+            <element signature="e#14310#14483#0" expanded="false" />
+            <element signature="e#14578#14757#0" expanded="false" />
+            <element signature="e#14846#15023#0" expanded="false" />
+            <element signature="e#15110#15421#0" expanded="false" />
+            <element signature="e#15505#15692#0" expanded="false" />
+            <element signature="e#15771#16083#0" expanded="false" />
+            <element signature="e#16469#16635#0" expanded="false" />
+            <element signature="e#16693#17709#0" expanded="false" />
+            <element signature="e#17753#19720#0" expanded="false" />
+            <element signature="e#20363#22047#0" expanded="false" />
+            <element signature="e#22170#22936#0" expanded="false" />
+            <element signature="e#23041#25644#0" expanded="false" />
+            <element signature="e#25728#34855#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11112222.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1904">
+          <caret line="354" column="45" lean-forward="false" selection-start-line="354" selection-start-column="45" selection-end-line="354" selection-end-column="45" />
+          <folding>
+            <element signature="e#140#5346#0" expanded="false" />
+            <element signature="e#5373#10579#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbfx.web.customizeInputBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="438" column="10" lean-forward="false" selection-start-line="438" selection-start-column="10" selection-end-line="438" selection-end-column="10" />
+          <folding>
+            <element signature="e#2214#6617#0" expanded="false" />
+            <element signature="e#6730#9220#0" expanded="false" />
+            <element signature="e#9275#9427#0" expanded="false" />
+            <element signature="e#9457#11234#0" expanded="false" />
+            <element signature="e#11327#11896#0" expanded="false" />
+            <element signature="e#11966#12457#0" expanded="false" />
+            <element signature="e#12820#12981#0" expanded="false" />
+            <element signature="e#13205#13383#0" expanded="false" />
+            <element signature="e#13460#13627#0" expanded="false" />
+            <element signature="e#13704#13963#0" expanded="false" />
+            <element signature="e#14052#14227#0" expanded="false" />
+            <element signature="e#14310#14483#0" expanded="false" />
+            <element signature="e#14578#14757#0" expanded="false" />
+            <element signature="e#14846#15023#0" expanded="false" />
+            <element signature="e#15110#15421#0" expanded="false" />
+            <element signature="e#15505#15692#0" expanded="false" />
+            <element signature="e#15771#16083#0" expanded="false" />
+            <element signature="e#16469#16635#0" expanded="false" />
+            <element signature="e#16693#17709#0" expanded="false" />
+            <element signature="e#17753#19720#0" expanded="false" />
+            <element signature="e#20363#22047#0" expanded="false" />
+            <element signature="e#22170#22936#0" expanded="false" />
+            <element signature="e#23041#25644#0" expanded="false" />
+            <element signature="e#25728#34855#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11112222.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1904">
+          <caret line="354" column="45" lean-forward="true" selection-start-line="354" selection-start-column="45" selection-end-line="354" selection-end-column="45" />
+          <folding>
+            <element signature="e#140#5346#0" expanded="false" />
+            <element signature="e#5373#10579#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbfx.web.customizeInputBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#2214#6617#0" expanded="false" />
+            <element signature="e#6730#9220#0" expanded="false" />
+            <element signature="e#9275#9427#0" expanded="false" />
+            <element signature="e#9457#11234#0" expanded="false" />
+            <element signature="e#11327#11896#0" expanded="false" />
+            <element signature="e#11966#12457#0" expanded="false" />
+            <element signature="e#12820#12981#0" expanded="false" />
+            <element signature="e#13205#13383#0" expanded="false" />
+            <element signature="e#13460#13627#0" expanded="false" />
+            <element signature="e#13704#13963#0" expanded="false" />
+            <element signature="e#14052#14227#0" expanded="false" />
+            <element signature="e#14310#14483#0" expanded="false" />
+            <element signature="e#14578#14757#0" expanded="false" />
+            <element signature="e#14846#15023#0" expanded="false" />
+            <element signature="e#15110#15421#0" expanded="false" />
+            <element signature="e#15505#15692#0" expanded="false" />
+            <element signature="e#15771#16083#0" expanded="false" />
+            <element signature="e#16469#16635#0" expanded="false" />
+            <element signature="e#16693#17709#0" expanded="false" />
+            <element signature="e#17753#19720#0" expanded="false" />
+            <element signature="e#20363#22047#0" expanded="false" />
+            <element signature="e#22170#22936#0" expanded="false" />
+            <element signature="e#23041#25644#0" expanded="false" />
+            <element signature="e#25728#34855#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="10" lean-forward="true" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbfx.web.customizeInputBox.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
@@ -268,13 +483,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testK.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/testK.html" />
     <entry file="file://$PROJECT_DIR$/CustomizeInputBoxDesigner.scrp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -358,38 +567,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/keyboard.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/a.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flexBox.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testK.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CustomizeInputBoxDesigner.scrp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -414,17 +595,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dbfx.web.customizeInputBox.js">
+    <entry file="file://$PROJECT_DIR$/keyboard.css" />
+    <entry file="file://$PROJECT_DIR$/flexBox.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="194" column="28" lean-forward="false" selection-start-line="194" selection-start-column="28" selection-end-line="194" selection-end-column="28" />
+        <state relative-caret-position="184">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CustomizeInputBoxDesigner.scrp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbfx.web.customizeInputBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="438" column="10" lean-forward="false" selection-start-line="438" selection-start-column="10" selection-end-line="438" selection-end-column="10" />
+          <folding>
+            <element signature="e#2214#6617#0" expanded="false" />
+            <element signature="e#6730#9220#0" expanded="false" />
+            <element signature="e#9275#9427#0" expanded="false" />
+            <element signature="e#9457#11234#0" expanded="false" />
+            <element signature="e#11327#11896#0" expanded="false" />
+            <element signature="e#11966#12457#0" expanded="false" />
+            <element signature="e#12820#12981#0" expanded="false" />
+            <element signature="e#13205#13383#0" expanded="false" />
+            <element signature="e#13460#13627#0" expanded="false" />
+            <element signature="e#13704#13963#0" expanded="false" />
+            <element signature="e#14052#14227#0" expanded="false" />
+            <element signature="e#14310#14483#0" expanded="false" />
+            <element signature="e#14578#14757#0" expanded="false" />
+            <element signature="e#14846#15023#0" expanded="false" />
+            <element signature="e#15110#15421#0" expanded="false" />
+            <element signature="e#15505#15692#0" expanded="false" />
+            <element signature="e#15771#16083#0" expanded="false" />
+            <element signature="e#16469#16635#0" expanded="false" />
+            <element signature="e#16693#17709#0" expanded="false" />
+            <element signature="e#17753#19720#0" expanded="false" />
+            <element signature="e#20363#22047#0" expanded="false" />
+            <element signature="e#22170#22936#0" expanded="false" />
+            <element signature="e#23041#25644#0" expanded="false" />
+            <element signature="e#25728#34855#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testK.html" />
     <entry file="file://$PROJECT_DIR$/keyboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="66" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="13" selection-end-column="66" />
+        <state relative-caret-position="323">
+          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11112222.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="801">
+          <caret line="354" column="45" lean-forward="false" selection-start-line="354" selection-start-column="45" selection-end-line="354" selection-end-column="45" />
+          <folding>
+            <element signature="e#140#5346#0" expanded="false" />
+            <element signature="e#5373#10579#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
